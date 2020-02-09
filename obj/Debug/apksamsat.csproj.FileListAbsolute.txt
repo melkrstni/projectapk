@@ -1,0 +1,11 @@
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\bin\Debug\apksamsat.exe.config
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\bin\Debug\apksamsat.exe
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\bin\Debug\apksamsat.pdb
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.csprojAssemblyReference.cache
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.Form1.resources
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.Properties.Resources.resources
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.csproj.GenerateResource.cache
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.csproj.CoreCompileInputs.cache
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.exe
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.pdb
+D:\project visual studio\projeksmsat\APLIKASIREAL!\apksamsat\obj\Debug\apksamsat.Home.resources
